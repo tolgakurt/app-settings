@@ -1,0 +1,8 @@
+// These settings override both User and Default settings for the Markdown syntax
+{
+    "word_wrap": "true",
+    "wrap_width": 80,
+    "trim_trailing_white_space_on_save": false,
+    "spell_check": true,
+    "spelling_selector": "meta.paragraph - markup.underline.link - markup.raw, markup.quote - markup.underline.link.markdown - markup.raw"
+}
