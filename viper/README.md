@@ -2,7 +2,7 @@
 
 In windows playback device configuration, leave `Disable all enhancements` unchecked.  
 
-Install and Viper4Windows in administrator mode.  
+Install and run in administrator mode.  
 
 Make sure that the output device is enabled in `Configurator`.  
 
